@@ -1,0 +1,6 @@
+defaults:
+  - base_trainer
+  - _self_
+
+accelerator: cpu
+devices: 1
